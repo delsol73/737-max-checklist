@@ -85,3 +85,6 @@ html{height:100%;-webkit-text-size-adjust:100%} body{min-width:0;min-height:100%
 }
 @media(max-width:390px){.identity small{font-size:8px}.header-actions{gap:4px}.header-actions button{padding:8px}.item-target{max-width:36%}.item-info{min-width:42px;min-height:42px;flex-basis:42px}.item-toggle{gap:8px}}
 @media(hover:none){button:hover{filter:none} .item:hover{border-color:#31323a;background:#1b1c22}.item.done:hover{background:#1b2523}}
+
+/* Aircraft selector — v0.4 */
+.aircraft-chooser{padding:0 7px 20px}.aircraft-chooser select{width:100%;appearance:none;border:1px solid #424650;color:#f4f5f8;background:#292c35;border-radius:12px;padding:13px 28px 13px 12px;font-size:13px;font-weight:650;cursor:pointer;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' stroke='%23c5c7ce' stroke-width='2'%3E%3Cpath d='m3 6 5 5 5-5'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 9px center}.aircraft-chooser select:focus-visible{outline:2px solid #8dafff;outline-offset:2px}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}@media(max-width:760px){.aircraft-chooser{padding:0 2px 12px}.aircraft-chooser select{max-width:400px;font-size:16px;padding:12px 35px 12px 14px}.identity{padding-bottom:12px}}

@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "737 MAX Flight Companion",
-  "short_name": "737 Checklist",
-  "description": "Offline flight checklist companion for MSFS 2024 Asobo Boeing 737 MAX 8. Simulation only.",
+  "name": "Flight Companion — MSFS 2024",
+  "short_name": "Flight Companion",
+  "description": "Boeing 737 MAX 8 and Airbus A320neo V2 checklists for MSFS 2024",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
