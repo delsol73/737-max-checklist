@@ -1,0 +1,187 @@
+﻿Aircraft in app,PDF reference,PDF page,Phase,Item,Target,Compatibility / source note,Item ID
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,PARKING BRAKE,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,FLAPS,UP,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-12-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,SPOILERS,RETRACTED & DISARMED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,WEATHER RADAR,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,PREDICTIVE WINDSHEAR,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,ENGINE MASTER 1 + 2,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,ENGINE MODE SELECTOR,NORMAL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,THRUST LEVERS,IDLE,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,LANDING GEAR,DOWN,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-10-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PRE-FLIGHT,WIPERS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-00-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,BATT 1 + 2,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,EXTERNAL POWER,ON IF AVAILABLE,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,ACCU / BRAKES PRESSURE,CHECKED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,COCKPIT LIGHTS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,INSTRUMENT / DISPLAY BRIGHTNESS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,APU FIRE TEST,PERFORM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,APU MASTER (IF EXT PWR UNAVAIL),ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,APU START (IF EXT PWR UNAVAIL),START,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,CREW SUPPLY,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,CVR,TEST,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,ADIRS 1 + 2 + 3,NAV,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-00-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,EXTERIOR LIGHTS,WING / NAV / LOGO,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-11
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,NO SMOKING / PORTABLE DEVICES,AUTO,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-12
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,EMERGENCY EXIT LIGHTS,ARM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-13
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,ANNUNCIATOR LIGHTS,CHECK / AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-14
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,PROBE / WINDOW HEAT,AUTO,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-15
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,APU BLEED (IF APU AVAIL),ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-16
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,AC TEMPERATURES,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-17
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,ECAM PAGE,ELEC,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-18
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,BATT 1 + 2,OFF THEN ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ. Unusual source-specific battery check; verify suitability for iniBuilds aircraft before action.,refa320-01-19
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,FUEL PUMPS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-20
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,ENGINE FIRE TEST 1 + 2,PERFORM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-21
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,REMAINING WHITE LIGHTS,CHECK / EXTINGUISH,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-22
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,FLIGHT DIRECTORS 1 + 2,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-23
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,BARO,SET QNH,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-24
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,EFIS,CSTR / ARC / 10NM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-25
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,FCU SPEED,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-26
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,FCU HEADING,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-27
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,FCU ALTITUDE,INIT CLIMB,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-28
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,RADIO,SETUP,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-29
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,MCDU DATA,CHECK,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-30
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,MCDU,SETUP,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-31
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,RADNAV,SETUP,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-32
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,IFR CLEARANCE,RECEIVED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-33
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,IRS ALIGN,CHECK,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-34
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,F-PLN,REVIEWED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-35
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,EFIS NAV AIDS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-36
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,TAKEOFF BRIEFING,COMPLETED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-37
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,COCKPIT PREPARATION,SQUAWK,SET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-01-38
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,APU MASTER,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,APU,START,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,MCDU WEIGHTS,INSERTED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,MCDU TAKEOFF PERFORMANCE,CHECKED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,V-SPEEDS,V1 / VR / V2 SET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,APU BLEED (IF APU AVAIL),ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,EXT PWR (IF APU AVAIL),OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,SEATBELT SIGNS,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PRE-START-UP,AIR CONDITIONING,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-02-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,WINDOWS AND DOORS,CLOSED & LOCKED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,COCKPIT DOOR,CLOSED & LOCKED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,FUEL PUMPS,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,BEACON,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-03-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,STEERING PIN,INSERTED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ. Pushback/ground handling; may be simulated by GSX rather than native A320 controls.,refa320-03-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,TRANSPONDER,AUTO,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,TCAS,STBY,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,CLOCK (ET),RUN,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,PARKING BRAKE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ENGINE MODE SELECTOR (IF CLEARED),START,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ENGINE MASTER 2,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-10
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ENGINE 2 N2 / FUEL FLOW / EGT / N1,MONITOR → AVAIL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-11
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ENGINE MASTER 1,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-12
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ENGINE 1 N2 / FUEL FLOW / EGT / N1,MONITOR → AVAIL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-13
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ENGINE MODE SELECTOR,NORMAL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-14
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,APU BLEED,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-04-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,APU MASTER SWITCH,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-03-16
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,1,PUSHBACK & START-UP,ANTI-ICE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-05-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,AUTOBRAKE,MAX,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,SPOILERS,ARMED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,FLAPS,T/O,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,ENGINE ANTI-ICE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,FLIGHT CONTROLS,CHECKED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,PITCH TRIM,SET %,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-05-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,RUDDER TRIM,RESET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAXI,STEERING PIN,REMOVED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-04-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAXI,NOSE LIGHT,TAXI,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-05-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAXI,RUNWAY TURNOFF LIGHTS,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-05-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAXI,STROBES,AUTO,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-05-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAXI,PARKING BRAKE,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-05-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAXI,T/O CONFIG,CHECK,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-05-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,CABIN CREW,NOTIFIED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,EXTERIOR LIGHTS,ALL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,NOSEWHEEL LIGHTS,T/O,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,ANTI-ICE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,PACKS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,TCAS,ABV / TA / TA-RA,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,WEATHER RADAR,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,PREDICTIVE WINDSHEAR,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,WEATHER MODE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,BEFORE TAKE-OFF,T/O MEMO,NO BLUE,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-06-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAKE-OFF,CHRONO,START,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-07-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAKE-OFF,BRAKES,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-07-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAKE-OFF,ENGINES,STABILIZE AT 40% N1,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-07-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,TAKE-OFF,THRUST,FLX/MCT OR TOGA,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-07-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,LANDING GEAR,RETRACT,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-08-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,FLAPS,RETRACT,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-08-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,SPOILERS,DISARM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-12-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,THRUST,CLB,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-08-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,AUTOPILOT,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-08-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,NOSEWHEEL LIGHTS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-08-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,AFTER TAKE-OFF,RUNWAY TURNOFF LIGHTS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-08-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,BARO (TRANSITION ALTITUDE),STD,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,ANTI-ICE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,EFIS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,WEATHER RADAR,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,LANDING LIGHTS (ABOVE 10000 FT),OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,WING LIGHTS (ABOVE 10000 FT),OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CLIMB,SEATBELT SIGNS (ABOVE 10000 FT),AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-09-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,NAV AIDS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,SEATBELT SIGNS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,FLIGHT,MONITOR,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,ECAM,MONITOR,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,WEATHER,MONITOR,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,ARRIVAL,PREPARE,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,CRUISE,MCDU LANDING PERFORMANCE,PREPARE,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-10-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,MCDU LDG PERF,REVIEWED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,TCAS,BLW,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,APPROACH BRIEFING,COMPLETED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,NAV AIDS,REVIEWED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,ANTI-ICE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,EFIS ND,CSTR,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,SEATBELT SIGNS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,BARO (TRANSITION LEVEL),SET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,SEATBELT SIGNS (BELOW 10000 FT),ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,LANDING LIGHTS (BELOW 10000 FT),ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,2,DESCENT,WING LIGHTS (BELOW 10000 FT),ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-11-10
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,EFIS,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,ND TERRAIN,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,LANDING GEAR,DOWN & GREEN,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,EXTERIOR LIGHTS,ALL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,NOSEWHEEL LIGHTS,T/O,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,AUTOBRAKES,SET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,SPOILERS,ARMED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,FLAPS,LDG,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-12-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,LANDING,LANDING MEMO,NO BLUE,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-10-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,LANDING LIGHTS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,NOSEWHEEL LIGHTS,TAXI,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,FLAPS,UP,"Based on FBW A32NX; iniBuilds A320neo V2 controls can differ. Original PDF: If OAT > 30°C, set flaps 1 instead.",refa320-13-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,SPOILERS,RETRACTED & DISARMED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,WEATHER RADAR,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,PREDICTIVE WINDSHEAR,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,TCAS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,TERRAIN,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,APU,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,WING ANTI-ICE,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,ENGINE ANTI-ICE,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-10
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,APU BLEED,ON IF AVAIL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-11
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,RUNWAY TURNOFF LIGHTS (ONTO STAND),OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-12
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,AFTER LANDING,NOSEWHEEL LIGHTS (ONTO STAND),OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-13-13
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,PARKING BRAKE,SET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-00-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,NAV AIDS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-01
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,FCU,RESET,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,FLIGHT DIRECTOR 1 + 2,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,ND,ARC / 10NM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,ANTI-ICE,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,ENGINE MASTER (IF APU / GPU AVAIL),OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,FUEL PUMPS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,BEACON,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,SEATBELT SIGNS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,EXTERNAL POWER,ON IF AVAIL,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-00-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,TRANSPONDER,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-11
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,PARKING,COCKPIT DOOR,OPEN,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-14-12
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,PARKING BRAKE,ON,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-00
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,ADIRS 1 + 2 + 3,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,a320-13-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,APU BLEED,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-02
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,DOME LIGHT,AS REQUIRED,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-03
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,DISPLAY BRIGHTNESS,MINIMUM,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-04
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,INTEGRATED / FLOOD LIGHTS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-05
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,APU MASTER,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-06
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,EMERGENCY EXIT LIGHTS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-07
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,SEATBELT SIGNS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-08
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,NO SMOKING / PORTABLE DEVICES,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-09
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,EXTERIOR LIGHTS,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-10
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,CREW SUPPLY,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-11
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,EXTERNAL POWER,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-12
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,DOME LIGHT,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-13
+iniBuilds Airbus A320neo V2,FBW A320neoX Korean Air Checklist KE1.0.0,3,SECURING THE AIRCRAFT,BATT 1 + 2,OFF,Based on FBW A32NX; iniBuilds A320neo V2 controls can differ.,refa320-15-14

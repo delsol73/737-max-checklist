@@ -1,32 +1,21 @@
-Flight Companion v0.5 — Smart Checklist (MSFS 2024)
+FLIGHT COMPANION v0.7 — 업로드한 체크리스트 PDF 기반 재작성
+
+• Boeing: PMDG 737NG 체크리스트 PDF(4쪽)를 기준으로 16개 정상 Phase, 236개 항목을 재정리.
+• Airbus: FBW A320neoX 체크리스트 PDF(3쪽)를 기준으로 16개 정상 Phase, 186개 항목을 재정리.
+• Go-Around는 기체당 별도 Phase. A320 PDF에는 복행 항목이 없어 기존 시뮬레이션 가이드를 별도로 유지.
+• 각 항목의 목표 상태 ON/OFF/SET 등을 항목명 바로 옆에 크게 표시. 오른쪽 ⓘ 버튼으로 원본 PDF 페이지 및 주의사항 확인.
+• ILS/RNAV, 시작 상태 필터, 개별 및 일괄 체크/해제, 기체별 진행률 저장, FMC/MCDU 텍스트 가이드 모두 유지.
+• 조종석 위치도는 포함되지 않음.
+• reference_tables/ 아래에 항목 검토용 CSV 파일 포함.
+
+중요: 737 자료는 PMDG 737NG용이지 Asobo 737 MAX용이 아닙니다. A320 자료도 FBW A32NX용이지 iniBuilds A320neo V2용이 아닙니다. PMDG FS ACTIONS처럼 특정 애드온에만 해당하는 조작은 그대로 표시하되 차이점 주석을 달았습니다. 실제 조종석의 동작과 일치하는지 확인해야 합니다. 실항공기 운항용이 아닙니다.
+
+iPad 업데이트:
+1) 기존 앱의 Settings → Export progress로 체크 상태 백업.
+2) ZIP 압축 해제 후 모든 앱 파일을 기존 GitHub Repository 최상위에 덮어 업로드, Commit changes.
+3) GitHub Pages 배포가 끝난 다음 iPad 앱을 종료 후 재실행.
+4) 버전 표시 v0.7 확인. 기존 아이콘/URL을 그대로 사용.
+
+저장 정보는 기존 브라우저 저장 키를 유지하고, v0.6.1의 이전 진행률 사본은 로컬 스토리지에 별도로 보관합니다. 목록이 크게 바뀌었기 때문에 이전 체크 완료 상태는 의미가 정확히 일치하는 일부 항목에만 자동 적용됩니다.
 
 Windows: START_CHECKLIST.bat 실행.
-iPad: GitHub Pages 저장소 루트에 ZIP 안의 모든 파일을 업로드하고 새 배포 완료 후 앱 재실행.
-
-SMART CHECKLIST:
-- Start State: Cold & Dark / Turnaround (Powered) / Runway Ready
-- Approach: ILS / RNAV
-- 기존 체크리스트 ID 및 v0.4 저장 키 그대로 유지. 프로파일은 기체별로 별도 저장.
-- 숨겨진 Phase는 저장된 체크 상태가 유지되며 활성 프로파일의 진행률/일괄 체크에서 제외.
-- 'Show skipped phases'로 이전 단계 확인 가능. 숨겨진 단계는 일괄 체크에서 제외됨.
-- 접근 단계에 ILS/RNAV별 확인 항목이 추가되며 절차는 시뮬레이터용 참고사항임.
-- 기체 설정과 항공편 준비 정도에 따라 건너뛸 수 있는 항목이 달라짐. 특히 Runway Ready는 해당 상태로 이미 준비된 상황에서만 선택.
-
-IMPORTANT: No actual MSFS state detection. This is a profile filter, not automatic aircraft configuration. All procedures simulation-only.
-
-
-v0.5.1 Go-Around / Missed Approach:
-- Smart Checklist 아래 GO-AROUND 버튼으로 언제든 복행 체크리스트로 진입합니다.
-- 기체별 별도 절차를 제공합니다.
-- GO-AROUND를 종료하면 Approach 단계로 이동합니다.
-- 복행 절차는 평소 완료율에서 제외되고, 복행 활성화 중에만 포함됩니다.
-- 기존 기체별 체크 상태 및 Phase 인덱스 저장 키를 유지합니다.
-- 본 절차는 일반적인 정상 복행의 시뮬레이션 참고용이며 엔진 고장/특수 상황 절차가 아닙니다.
-- 출처: Airbus Safety First 'The Go-Around Procedure'; Boeing 737 MAX FCTM/FCOM excerpts; sim implementation unverified.
-
-
-v0.5.2 Compact Flight Profile
-- Flight Profile defaults to collapsed; tap to open Start State / Approach settings.
-- Changing a profile value auto-collapses settings; Done also closes them.
-- GO-AROUND stays visible separately.
-- Existing storage keys, progress, PWA installation and checklist data unchanged.

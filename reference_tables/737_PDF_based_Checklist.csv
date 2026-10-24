@@ -1,0 +1,237 @@
+﻿Aircraft in app,PDF reference,PDF page,Phase,Item,Target,Compatibility / source note,Item ID
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,LANDING GEAR,DOWN,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,SPEED-BRAKE,DOWN,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",speedbrake-disarm
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FLAPS,UP,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",flaps-retract
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,BATTERY,ON & COVERED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,STANDBY PWR,AUTO & COVERED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,DC VOLTMETER SELECTOR (L),BAT,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,AC VOLTMETER SELECTOR (R),STBY PWR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,MASTER CAUTION,DISENGAGE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,ELECTRIC HYD PUMPS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FUEL PUMPS,ALL OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,INTERIOR LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,CABIN / UTILITY POWER,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,IFE / PASS SEAT POWER,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. 737NG variant equipment; may not appear in Asobo MAX.",ref737-00-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,GROUND POWER,CONNECT & ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PMDG FS ACTIONS/GROUND SERVICES route is PMDG-only. In Asobo, use EFB/ground services or cockpit if modeled.",ref737-00-13
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,AC VOLTMETER SELECTOR (R),GRND PWR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,EMERGENCY LIGHTS,ARMED & COVERED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,SEAT BELTS,AUTO / ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-16
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,POSITION LIGHTS,STEADY,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-17
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,WHEEL WELL / LOGO / WING LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-18
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,COCKPIT LIGHTS,TEST,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-19
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,ALARMS,TEST,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-20
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,OXYGEN MASKS,TEST,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-21
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FMC FUEL / PAYLOAD,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PMDG FS ACTIONS service differs from MSFS 2024 Asobo payload settings.",ref737-00-22
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,TRIM AIR,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Original specifies 737-800/900 only; do not assume this switch exists on MAX.",ref737-00-23
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,RECIRC FANS L/R,AUTO,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-24
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,PACKS L/R,AUTO,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-25
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,AUTOPILOTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-26
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,IRS SELECTORS,NAV,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-27
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FMC INIT REF,COMPLETE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-28
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FMC ROUTE,COMPLETE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-29
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FMC PERF INIT,COMPLETE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-30
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,FUEL PUMP FWD NO. 1,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-31
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,APU,START,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-32
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,APU GEN SWITCHES L/R,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-33
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,APU & ENGINE BLEEDS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-34
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,AC VOLTMETER SELECTOR (R),APU,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-35
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,SECURE CABIN,MASTER CAUTION,DISENGAGE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-00-36
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,ATC CLEARANCE,RECEIVED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,SQUAWK,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,ALTIMETER,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,FMC DEPARTURE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,FMC ROUTE / LEGS,CHECK DISCONTINUITIES,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,FMC TAKEOFF (PAGES 1 & 2),SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,INITIAL ALTITUDE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,HEADING / TAKEOFF RUNWAY,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,ELEVATOR TRIM,SET (FMC DATA),"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,IAS / MACH SPEED,SET V2,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,YAW DAMPER,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,FUEL PUMPS (USABLE),ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,CROSSFEED VALVE,TEST → OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,WINDOW HEAT,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",window-heat
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,WING & ENGINE ANTI-ICE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,HYDRAULIC PUMPS,ALL ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,FLIGHT ALTITUDE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-16
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,LANDING ALTITUDE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-17
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,FLIGHT DIRECTORS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-18
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,LNAV,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-19
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,VNAV,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-20
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,AUTO BRAKE,RTO,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",autobrake-rto
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,COM RADIOS,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-22
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,GROUND CONNECTIONS,REMOVE ALL,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PMDG FS ACTIONS services may not correspond to Asobo interface.",ref737-01-23
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,ATC / FMC / PREFLIGHT,DOORS,CLOSED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-01-24
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,PARKING BRAKE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",parking-initial
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,CHOCKS,REMOVED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PMDG FS ACTIONS ground equipment; availability differs in Asobo.",ref737-02-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,TAKEOFF BRIEFING,REVIEWED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-02-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,PACKS L/R,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. This is the source PDF's PMDG 737NG procedure, not universal MAX SOP.",ref737-02-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,ANTI-COLLISION LIGHT,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-02-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,TRANSPONDER,ALT OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-02-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,ENGINE AREA,CLEAR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-02-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,LOWER DISPLAY UNIT,ENGINE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-02-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,1,BEFORE START,PUSHBACK / START CLEARANCE,REQUEST,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-02-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,PUSHBACK,START,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,DUCT PRESSURE,VERIFY 30 PSI,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,IGNITION SELECTOR,SWITCH TO OPPOSITE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,LEFT ENGINE START SWITCH,GRD,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. The reference starts left engine first. Actual configuration, pushback constraints, or MAX sim may differ.",ref737-03-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,LEFT ENGINE N2,AT LEAST 25% BEFORE FUEL,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,LEFT ENGINE FUEL CTRL,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,LEFT ENGINE START SWITCH,CONT WHEN RETURNS,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PDF uses CONT after return; cross-check MAX implementation.",ref737-03-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,RIGHT ENGINE START SWITCH,GRD,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,RIGHT ENGINE N2,AT LEAST 25% BEFORE FUEL,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,RIGHT ENGINE FUEL CTRL,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,ENGINE START,RIGHT ENGINE START SWITCH,CONT WHEN RETURNS,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-03-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,ENGINE GENERATORS L/R,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,AC VOLTMETER SELECTOR (R),GEN 1,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,APU,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,APU BLEED,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,PACKS L/R,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,ISOLATION VALVE,AUTO,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,PROBE HEAT,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",probe-heat
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,ENGINE ANTI-ICE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,FLAPS,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,TRIM,VERIFY SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,FLIGHT CONTROLS,FREE AND CORRECT,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,RECALL,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,LOWER DISPLAY UNIT,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,TAXI CLEARANCE,REQUEST,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-13
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,TAXI LIGHTS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,RUNWAY TURNOFF LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAXI,TCAS,TEST,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-04-16
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,TAXI,TAXI SPEED (APRON),15 KNOTS MAX,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Reference-specific guidance; airport/operator constraints govern.",ref737-05-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,TAXI,TAXI SPEED (TAXIWAY),30 KNOTS MAX,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Reference-specific guidance; not a universal taxi limit.",ref737-05-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,TAXI,TAXI SPEED (RUNWAY),50 KNOTS MAX,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Reference-specific guidance; not a universal taxi limit.",ref737-05-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,TAXI,BRAKES / GYRO / TURN COORDINATOR,CHECK DURING TAXI,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-05-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,PARKING BRAKE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,AUTOTHROTTLE,ARM,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,CENTER FUEL PUMPS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,ANTI-ICE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,CABIN LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,FLIGHT INSTRUMENTS,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",flight-instruments
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,ENGINE INSTRUMENTS,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,BRAKE TEMPERATURE,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,TAKEOFF DATA (V1 / VR / V2),CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,NAV EQUIPMENT,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,TAKEOFF CLEARANCE,RECEIVED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,LANDING LIGHTS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,RUNWAY TURNOFF LIGHTS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,TAXI LIGHTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-13
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,POSITION LIGHTS,STROBE & STEADY,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,TRANSPONDER,TA/RA,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,TFC,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-16
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,BEFORE TAKEOFF,CLOCK,START,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-06-17
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,POSITIVE RATE OF CLIMB,GEAR UP,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,AUTO BRAKE,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,ENGINE START SWITCHES,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,GEAR LEVER,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,FLAPS,RAISE ON SCHEDULE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,AUTOPILOT,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Use when appropriate; original checklist states ON.",ref737-07-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,LNAV / VNAV,ON / AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,RUNWAY TURNOFF LIGHTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,AFTER TAKEOFF,CABIN LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-07-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,CLIMB,ALTIMETER (TRANSITION ALTITUDE),STD,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-08-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,CLIMB,SPEED BELOW 10000 FT,MAX 250 KIAS,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Source rule is region/airspace dependent; follow applicable restrictions and ATC.",ref737-08-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,CLIMB,LANDING LIGHTS (ABOVE 10000 FT),OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-08-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,CLIMB,SEAT BELTS (ABOVE 10000 FT),AUTO / OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-08-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,CLIMB,CENTER FUEL PUMPS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-08-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,2,CLIMB,ANTI-ICE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-08-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,ENGINE / INSTRUMENTS,MONITOR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,FUEL QUANTITY,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,CENTER FUEL PUMPS,OFF WHEN EMPTY,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,ATIS / AIRPORT INFORMATION,CHECK ~40NM BEFORE T/D,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,ALTIMETER,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,RADIOS,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,MCP ALTITUDE,RESET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,FMC APPROACH SPEED REF,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,LOCALIZER FREQUENCY,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. ILS-specific in source; skip for RNAV-only approaches.",ref737-09-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,ILS LOCALIZER COURSE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. ILS-specific in source; skip for RNAV-only approaches.",ref737-09-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,CRUISE & DESCENT PREP,FMC DESCENT FORECAST,COMPLETE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-09-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,DE-ICE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,LANDING ALTITUDE,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,RECALL,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,RADIO ALT / BARO MINIMUMS,SET & CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,AUTO BRAKE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,ALTIMETER (TRANSITION LEVEL),LOCAL QNH,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,SPEED (BELOW 10000 FT),250 KIAS,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Source reference; subject to charts and ATC.",ref737-10-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,LANDING LIGHTS (BELOW 10000 FT),ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,DESCENT,SEAT BELTS (BELOW 10000 FT),ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-10-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,ALTIMETER,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-11-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,LOCALIZER FREQUENCY,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. ILS-specific; for RNAV use active approach guidance appropriate to the procedure.",ref737-11-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,LOCALIZER COURSE,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. ILS-specific; for RNAV use published lateral path.",ref737-11-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,APP MODE,ARM,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Only when applicable for the procedure and aircraft flight director behavior.",ref737-11-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,LANDING GEAR,DOWN / 3 GREEN,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",gear-down
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,FLAPS,15,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Intermediate setting from source; final landing flap selected below.",ref737-11-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,SPEED-BRAKE,ARM,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",speedbrake-arm
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,SECOND AUTOPILOT,ARM FOR ILS AUTOLAND,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Applicable to autoland only, not all ILS approaches.",ref737-11-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,ENGINE START SWITCHES,CONT,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-11-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,APPROACH,LANDING FLAPS,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-11-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,GO-AROUND ALTITUDE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,RUNWAY TURNOFF LIGHTS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,LANDING GEAR,CHECK DOWN,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,AUTOPILOT,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,AUTO-THRUST,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,THRUST REVERSE (TOUCHDOWN),ENGAGE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,AUTOPILOT (AFTER TOUCHDOWN),OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,AUTO-THRUST (AFTER TOUCHDOWN),OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,REVERSE THRUST (AT 60 KTS),IDLE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-12-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,LANDING,AUTO BRAKE (AT 30 KTS),DISENGAGE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Source-specific rollout guidance; do not treat as universal landing procedure.",ref737-12-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,TRANSPONDER,ALT OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,TFC,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,FLAPS,RETRACT,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,SPEED-BRAKE,DOWN,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,LANDING LIGHTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,TAXI LIGHTS,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,STROBE LIGHTS,STEADY,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,CABIN LIGHTS,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,ANTI-ICE,AS REQUIRED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,APU,START,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,PROBE HEAT,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",probe-heat-off
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,ENGINE START SWITCHES,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,AUTO BRAKE,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,FLIGHT DIRECTORS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-13
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,LOWER DISPLAY UNIT,ENGINE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,BRAKE TEMPERATURE,CHECK,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,RUNWAY TURNOFF LIGHTS (TAXI TO GATE),OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-16
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,APU GEN SWITCHES L/R,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-17
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,AC VOLTMETER SELECTOR (R),APU,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-18
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,APU BLEED,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-19
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,AUTOPILOT,RESET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-20
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,3,AFTER LANDING,TAXI LIGHTS (TURNING INTO GATE),OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-13-21
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,PARKING BRAKE,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,ENGINE FUEL CTRL LEVERS,CUT OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,MASTER WARNING,DISENGAGE,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,ANTI-COLLISION LIGHTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,WHEEL CHOCKS,SET,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PMDG FS ACTIONS ground equipment if modeled.",ref737-14-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,GROUND CONNECTIONS,ESTABLISH,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. PMDG FS ACTIONS is not an Asobo command.",ref737-14-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,PASSENGER SIGNS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,YAW DAMPER,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,FUEL PUMPS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",fuel-pumps-off
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,LEFT AFT FUEL PUMP,ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Source documents auxiliary fuel pump use; validate on MAX.",ref737-14-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,GROUND POWER,CONNECT & ON,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,AC VOLTMETER SELECTOR (R),GRND PWR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,APU,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,LEFT AFT FUEL PUMP,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-13
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,ENGINE START SWITCHES,CHECK OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,ELEC HYD PUMPS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,ISOLATION VALVE,OPEN,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-16
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,APU BLEED,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-17
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,TRANSPONDER,2000 / STANDBY,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8. Source-specific and not a universal transponder code requirement.",ref737-14-18
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,PARKING,MASTER WARNING,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-14-19
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,IRS SELECTORS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-00
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,WINDOW HEAT,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-01
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,BLEEDS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-02
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,PACKS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-03
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,RECIRC FANS L/R,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-04
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,TRIM AIR,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-05
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,EXTERNAL LIGHTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-06
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,GROUND POWER,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-07
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,AC VOLTMETER SELECTOR (R),STBY PWR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-08
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,EMERGENCY EXIT LIGHTS,OFF & UNCOVERED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-09
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,IFE / PASS SEAT POWER,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-10
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,CABIN / UTILITY POWER,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-11
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,MASTER WARNING,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-12
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,COCKPIT LIGHTS,OFF,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-13
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,STANDBY PWR,OFF & UNCOVERED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-14
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,DC VOLTMETER SELECTOR (L),STBY PWR,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-15
+Asobo Boeing 737 MAX 8,PMDG 737NG Checklist v1.1,4,SHUTDOWN / SECURE,BATTERY,OFF & UNCOVERED,"Based on PMDG Boeing 737NG, not certified for Asobo 737 MAX 8.",ref737-15-16
